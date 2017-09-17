@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently and undergraduate student at the University of Maryland pursuing a B.S in Information Science. 
 
 ### Contact me
 
